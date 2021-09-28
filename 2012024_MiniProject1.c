@@ -4,6 +4,7 @@
     Department of Computer Science and Engineering, 
     National Institute of Technology Silchar
     Anuj Yadav_2012024
+    Time complexity is O(n), with large constant coefficient of size 'length'.
 */
 #include <stdio.h>
 #define length 4185
